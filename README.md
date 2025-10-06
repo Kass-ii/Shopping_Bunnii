@@ -26,4 +26,4 @@ Hello, my name is Kassidy, and I am a third year student at UT Arlington. I spen
 # 4. Technical components
 <p align="left">
   <img src="Shopping%20Bunnii.png" alt="QR code" width="800">
-</p>
+</p> test
